@@ -1,9 +1,12 @@
 # XiaoXin13IML_2020_hackintosh
+小新13 2020款 i5 10210u黑苹果  82dk ideapad s340 
+
 原地址https://github.com/lietxia/XiaoXinAir14IML_2019_hackintosh  
-小新13 2020款 i5 10210u黑苹果  82dk ideapad s340  
-air14 群 1032311345 此群有小新各种机型  
+ 
+>air14 群 1032311345 此群有小新各种机型  
+
 本机与air142019十分相似，但是直接用air14的efi还是会有点问题，所以这里提供一下完善方案，供同机型参考。
-> 原始readme请查看readme1
+
 
 | CPU | i5 10210u |
 | :-------: | :------------------------------------------------: |
